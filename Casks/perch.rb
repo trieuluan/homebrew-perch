@@ -1,6 +1,6 @@
 cask "perch" do
-  version "1.1.0"
-  sha256 "3763299e8b8cb48bb5731407d7534d95a521c3300bb04ae28e7fb1ee30867fbd"
+  version "1.1.1"
+  sha256 "2e73f2641446207d85b8ecd9a8493da18773a21ddcdb5785a201d2486564e983"
 
   url "https://github.com/trieuluan/perch-mac/releases/download/v#{version}/Perch.dmg"
   name "Perch"
